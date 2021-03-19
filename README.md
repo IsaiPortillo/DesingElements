@@ -1,5 +1,5 @@
 # DesingElements
-Application created with android studio, where some of the Design Elements that can be implemented with this IDE were made/Aplicacion creada con Android Studio, Con algunos elementos de diseños que este probee
+Application created with android studio, where some of the Design Elements that can be implemented with this IDE were made/Aplicacion creada con Android Studio, Con algunos elementos de diseños que este provee
 
 Some of the design elements are/Algunos elementos de Diseño son:
 
