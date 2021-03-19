@@ -2,7 +2,7 @@
 ## English
 Application created with android studio, where some of the Design Elements that can be implemented with this IDE were made.
 
-Some of the design elements are
+Some of the design elements are:
 
 - Lista de Capas (LayerDrawable)
 - Lista de Estados (StateListDrawable) I work with: android:state_pressed
