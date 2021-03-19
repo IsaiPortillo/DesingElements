@@ -19,7 +19,7 @@ Algunos elementos de Diseño son:
 - Lista de Niveles(LevelListDrawable)
 - Elemento de diseño de transición(TransitionDrawable)
 
-@jalex099 
+@jalex099
 
 El trabajo otros elementos de diseño.
 
