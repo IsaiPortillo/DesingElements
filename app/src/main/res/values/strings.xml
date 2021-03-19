@@ -2,4 +2,7 @@
     <string name="app_name">DesingElements</string>
     <string name="img">img</string>
     <string name="btn_img">btn_img</string>
+    <string name="img2">img2</string>
+    <string name="imglvl">imglvl</string>
+    <string name="iv2">iv2</string>
 </resources>
