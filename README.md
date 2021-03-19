@@ -5,8 +5,8 @@ Aplicacion creada con Android Studio, Con algunos elementos de diseños que este
 Some of the design elements are:
 Algunos elementos de Diseño son:
 
--Lista de Capas (LayerDrawable)
--Lista de Estados (StateListDrawable) I work with :       android:state_pressed
+- Lista de Capas (LayerDrawable)
+- Lista de Estados (StateListDrawable) I work with :       android:state_pressed
                                       Se trabajo con :
--Lista de Niveles(LevelListDrawable)
--Elemento de diseño de transición(TransitionDrawable)
+- Lista de Niveles(LevelListDrawable)
+- Elemento de diseño de transición(TransitionDrawable)
