@@ -18,9 +18,3 @@ Algunos elementos de Diseño son:
 - Lista de Estados (StateListDrawable) I work with: android:state_pressed
 - Lista de Niveles(LevelListDrawable)
 - Elemento de diseño de transición(TransitionDrawable)
-
-@jalex099
-
-El trabajo otros elementos de diseño.
-
-He worked other design elements.
